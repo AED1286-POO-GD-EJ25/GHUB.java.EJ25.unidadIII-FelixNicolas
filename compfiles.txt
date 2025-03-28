@@ -1,2 +1,7 @@
 ./miPrincipal/Principal.java
+./miPrincipal/Libro.java
+./miPrincipal/Revista.java
+./miPrincipal/Publicacion.java
+./ventana/VentanaEspecial.java
+./ventana/Ventana.java
 ./miTest/AppTest.java
