@@ -2,6 +2,14 @@
 ./miPrincipal/Libro.java
 ./miPrincipal/Revista.java
 ./miPrincipal/Publicacion.java
+./empleados/EmpleadoComision.java
+./empleados/Empleado.java
+./empleados/EmpleadoSueldoFijo.java
+./empleados/EmpleadoIndustrial.java
+./empleados/EmpleadoComercial.java
+./empleados/EmpleadoPorHoras.java
 ./ventana/VentanaEspecial.java
 ./ventana/Ventana.java
 ./miTest/AppTest.java
+./fechas/TestFecha.java
+./fechas/Fecha.java

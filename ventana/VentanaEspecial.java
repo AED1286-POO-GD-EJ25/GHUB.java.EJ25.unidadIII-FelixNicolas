@@ -1,12 +1,12 @@
 package ventana;
 public class VentanaEspecial extends Ventana{
 
-    public void copiar(char c, ola veces, ola x, ola y){
-        System.out.prolaln("metodo especial");
+    public void copiar(char c, int veces, int x, int y){
+        System.out.println("metodo especial");
 
     }
-    public void copiar(char c, ola veces, double x, double y){
-        System.out.prolaln("metodo especial");
+    public void copiar(char c, int veces, double x, double y){
+        System.out.println("metodo especial");
 
     }
 
