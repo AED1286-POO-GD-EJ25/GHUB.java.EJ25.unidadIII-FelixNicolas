@@ -28,4 +28,10 @@ public class Fecha {
     public String toString(){
         return dia+"/"+mes+"/"+año;
     }
+    @Override
+    public boolean equals(Object o){
+        Fecha otra = (Fecha)o;
+
+        return ((this.dia ==otra.dia) && (this.mes ==otra.mes) && (this.año ==otra.año));
+    }
 }
