@@ -11,5 +11,8 @@
 ./ventana/VentanaEspecial.java
 ./ventana/Ventana.java
 ./miTest/AppTest.java
+./fechas/TestFecha4.java
+./fechas/TestFecha2.java
+./fechas/TestFecha3.java
 ./fechas/TestFecha.java
 ./fechas/Fecha.java
